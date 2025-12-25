@@ -23,9 +23,6 @@ An interactive Excel dashboard was built to support data-driven decision-making.
 - 92% order delivery success rate
 - Adult age group drives the highest number of orders
 
-## 📷 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
-
 ## 📂 Files Included
 - `Vrinda_Store_Annual_Report_2022.xlsx` – Interactive Excel dashboard
 - `Dashboard_Screenshot.png` – Dashboard preview
@@ -36,3 +33,4 @@ This dashboard enables stakeholders to:
 - Understand customer demographics
 - Identify high-performing regions
 - Improve inventory and marketing decisions
+
